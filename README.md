@@ -1,3 +1,3 @@
 GitRank
 =======
-First commit ~~~~
+First commit 
