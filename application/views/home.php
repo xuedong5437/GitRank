@@ -1,0 +1,1 @@
+<div><?php echo json_encode($user); ?></div>
